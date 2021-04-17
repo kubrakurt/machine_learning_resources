@@ -9,6 +9,7 @@
 * ## [Doğrusal Olmayan Regresyon Modelleri](https://github.com/kubrakurt/machine_learning_resource/tree/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri)
   * [KNN](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/1%20-%20KNN.ipynb)
   * [Destek Vektör Makinesi](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/2%20-%20Destek%20Vektör%20Makinesi.ipynb)
+  * [Yapay Sinir Ağları](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/3%20-%20Yapay%20Sinir%20Ağları.ipynb)
 
 ## Kaynaklar
 
