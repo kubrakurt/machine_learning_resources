@@ -5,6 +5,7 @@
   * [Çoklu Lineer Regresyon](https://github.com/kubrakurt/machine_learning_resource/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/2%20-%20Çoklu%20Lineer%20Regresyon.ipynb)
   * [Ridge Regresyon](https://github.com/kubrakurt/machine_learning_resource/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/3%20-%20Ridge%20Regresyon.ipynb)
   * [Lasso Regresyon](https://github.com/kubrakurt/machine_learning_resource/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/4%20-%20Lasso%20Regresyon.ipynb)
+  * [ElasticNet Regresyon](https://github.com/kubrakurt/machine_learning_resource/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/5%20-%20ElasticNet%20Regresyon.ipynb)
 
 ## Kaynaklar
 
