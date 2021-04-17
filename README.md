@@ -2,6 +2,7 @@
 
 * ## [Doğrusal Regresyon Modelleri](https://github.com/kubrakurt/machine_learning_resource/tree/main/1%20-%20Doğrusal%20Regresyon%20Modelleri)
   * [Basit Doğrusal Regresyon](https://github.com/kubrakurt/machine_learning_resource/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/1%20-%20Basit%20Doğrusal%20Regresyon.ipynb)
+  * [Çoklu Lineer Regresyon](https://github.com/kubrakurt/machine_learning_resource/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/2%20-%20Çoklu%20Lineer%20Regresyon.ipynb)
 
 ## Kaynaklar
 
