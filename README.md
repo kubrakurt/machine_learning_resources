@@ -16,6 +16,7 @@
   * [XGBoost](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/7%20-%20XGBoost.ipynb)
   * [LightGBM](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/8%20-%20LightGBM.ipynb)
   * [CatBoost](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/9%20-%20CatBoost.ipynb)
+  * [Makine Öğrenmesi Algoritmalarının Otomatikleştirilmesi](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/10%20-%20Makine%20Öğrenmesi%20Algoritmalarının%20Otomatikleştirilmesi.ipynb)
 
 ## Kaynaklar
 
