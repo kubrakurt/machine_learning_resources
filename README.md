@@ -14,6 +14,7 @@
   * [Random Forest](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/5%20-%20Random%20Forest.ipynb)
   * [Gradient Boosting Machines](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/6%20-%20Gradient%20Boosting%20Machines.ipynb)
   * [XGBoost](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/7%20-%20XGBoost.ipynb)
+  * [LightGBM](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/8%20-%20LightGBM.ipynb)
 
 ## Kaynaklar
 
