@@ -12,6 +12,7 @@
   * [Yapay Sinir Ağları](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/3%20-%20Yapay%20Sinir%20Ağları.ipynb)
   * [CART](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/4%20-%20CART.ipynb)
   * [Random Forest](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/5%20-%20Random%20Forest.ipynb)
+  * [Gradient Boosting Machines](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/6%20-%20Gradient%20Boosting%20Machines.ipynb)
   * [XGBoost](https://github.com/kubrakurt/machine_learning_resource/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/7%20-%20XGBoost.ipynb)
 
 ## Kaynaklar
