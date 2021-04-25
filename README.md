@@ -1,5 +1,8 @@
 <h1 align="center"> Makine Öğrenmesi </h1>
 
+* ## [Öznitelik Seçimi](https://github.com/kubrakurt/machine_learning_resource/tree/main/Öznitelik%20Seçimi)
+  * [Geri Eleme Yöntemi](https://github.com/kubrakurt/machine_learning_resource/blob/main/Öznitelik%20Seçimi/Geri%20Eleme%20Yöntemi.ipynb)
+
 * ## [Doğrusal Regresyon Modelleri](https://github.com/kubrakurt/machine_learning_resource/tree/main/1%20-%20Doğrusal%20Regresyon%20Modelleri)
   * [Basit Doğrusal Regresyon](https://github.com/kubrakurt/machine_learning_resource/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/1%20-%20Basit%20Doğrusal%20Regresyon.ipynb)
   * [Çoklu Lineer Regresyon](https://github.com/kubrakurt/machine_learning_resource/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/2%20-%20Çoklu%20Lineer%20Regresyon.ipynb)
@@ -39,3 +42,4 @@
 ## Kaynaklar
 
 * [Python ile Makine Öğrenmesi](https://www.udemy.com/course/python-ile-makine-ogrenmesi/)
+* [Makine Öğrenmesi Eğitimi](https://bilkav.com/makine-ogrenmesi-egitimi/)
