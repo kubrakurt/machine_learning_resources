@@ -39,6 +39,9 @@
   * [Hiyerarşik Kümeleme](https://github.com/kubrakurt/machine_learning_resource/blob/main/4%20-%20Denetimsiz%20Öğrenme/2%20-%20Hiyerarşik%20Kümeleme.ipynb)
   * [Temel Bileşen Analizi](https://github.com/kubrakurt/machine_learning_resource/blob/main/4%20-%20Denetimsiz%20Öğrenme/3%20-%20Temel%20Bileşen%20Analizi.ipynb)
 
+* ## [Örnek Projeler](https://github.com/kubrakurt/machine_learning_resources/tree/main/Örnek%20Projeler)
+  * [Baştan Sona XGBClassifier Model](https://github.com/kubrakurt/machine_learning_resources/tree/main/Örnek%20Projeler/Baştan%20Sona%20XGBClassifier%20Model)
+
 ## Kaynaklar
 
 * [Python ile Makine Öğrenmesi](https://www.udemy.com/course/python-ile-makine-ogrenmesi/)
