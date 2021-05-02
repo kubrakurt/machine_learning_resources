@@ -2,6 +2,8 @@
 
 * ## [Öznitelik Seçimi](https://github.com/kubrakurt/machine_learning_resource/tree/main/Öznitelik%20Seçimi)
   * [Geri Eleme Yöntemi](https://github.com/kubrakurt/machine_learning_resource/blob/main/Öznitelik%20Seçimi/Geri%20Eleme%20Yöntemi.ipynb)
+  * [Korelasyon Matrisi](https://github.com/kubrakurt/machine_learning_resources/blob/main/Öznitelik%20Seçimi/Korelasyon%20Matrisi.ipynb)
+  * [Öznitelik Önemi](https://github.com/kubrakurt/machine_learning_resources/blob/main/Öznitelik%20Seçimi/Öznitelik%20Önemi.ipynb)
 
 * ## [Doğrusal Regresyon Modelleri](https://github.com/kubrakurt/machine_learning_resource/tree/main/1%20-%20Doğrusal%20Regresyon%20Modelleri)
   * [Basit Doğrusal Regresyon](https://github.com/kubrakurt/machine_learning_resource/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/1%20-%20Basit%20Doğrusal%20Regresyon.ipynb)
