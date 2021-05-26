@@ -1,6 +1,6 @@
 <h1 align="center"> Makine Öğrenmesi </h1>
 
-<p align="left"> <img src="https://images.squarespace-cdn.com/content/v1/5005afd7e4b0a6953320bf3f/1513608181654-IK9HAQ1A1ZWE2V1APYDG/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc2PPwcWkLXq-DNe4zpT7he0M_zRUr6912vvtObYWjAW-pUdJURR5nHbHpk7AZw8X9/sorterbot5000_01.gif" /> </p>
+<p align="center"> <img src="https://images.squarespace-cdn.com/content/v1/5005afd7e4b0a6953320bf3f/1513608181654-IK9HAQ1A1ZWE2V1APYDG/ke17ZwdGBToddI8pDm48kFTEgwhRQcX9r3XtU0e50sUUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc2PPwcWkLXq-DNe4zpT7he0M_zRUr6912vvtObYWjAW-pUdJURR5nHbHpk7AZw8X9/sorterbot5000_01.gif" /> </p>
 
 * ## [Öznitelik Seçimi](https://github.com/kubrakurt/machine_learning_resource/tree/main/Öznitelik%20Seçimi)
   * [Geri Eleme Yöntemi](https://github.com/kubrakurt/machine_learning_resource/blob/main/Öznitelik%20Seçimi/Geri%20Eleme%20Yöntemi.ipynb)
