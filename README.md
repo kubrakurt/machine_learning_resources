@@ -1,5 +1,7 @@
 <h1 align="center"> Makine Öğrenmesi </h1>
 
+<p align="left"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sH-1IOL8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qky7jxrn69tqt1gaxbmm.gif" /> </p>
+
 * ## [Öznitelik Seçimi](https://github.com/kubrakurt/machine_learning_resource/tree/main/Öznitelik%20Seçimi)
   * [Geri Eleme Yöntemi](https://github.com/kubrakurt/machine_learning_resource/blob/main/Öznitelik%20Seçimi/Geri%20Eleme%20Yöntemi.ipynb)
   * [Korelasyon Matrisi](https://github.com/kubrakurt/machine_learning_resources/blob/main/Öznitelik%20Seçimi/Korelasyon%20Matrisi.ipynb)
