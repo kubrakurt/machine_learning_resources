@@ -45,6 +45,7 @@
 
 * ## [Örnek Projeler](https://github.com/kubrakurt/machine_learning_resources/tree/main/Örnek%20Projeler)
   * [Baştan Sona XGBClassifier Model](https://github.com/kubrakurt/machine_learning_resources/tree/main/Örnek%20Projeler/Baştan%20Sona%20XGBClassifier%20Model)
+  * [Su Kalitesi](https://github.com/kubrakurt/machine_learning_resources/blob/main/Örnek%20Projeler/Su%20Kalitesi/su-kalitesi.ipynb)
 
 ## Kaynaklar
 
